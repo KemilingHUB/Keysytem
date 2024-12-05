@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/KemilingHUB/Keysytem1/refs/heads/main/keySytem"), true))() 
